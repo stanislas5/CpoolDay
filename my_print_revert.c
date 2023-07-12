@@ -18,8 +18,3 @@ void my_print_revert (char* toRevert)
 
 
 
-
-int main (void)
-{
-   my_print_n_ascii(90) ;
-}
